@@ -1,0 +1,9 @@
+C:\Users\cjmco\source\repos\TSQL\bin\Debug\TSQL.dacpac
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\TSQL.dll
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\TSQL.pdb
+C:\Users\cjmco\source\repos\TSQL\bin\Debug\TSQL.dll
+C:\Users\cjmco\source\repos\TSQL\bin\Debug\TSQL.pdb
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\Model.xml
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\refactor.xml
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\postdeploy.sql
+C:\Users\cjmco\source\repos\TSQL\obj\Debug\predeploy.sql
